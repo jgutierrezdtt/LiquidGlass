@@ -1,0 +1,180 @@
+PROPRIETARY SOFTWARE LICENSE
+LiquidGlass Framework
+
+Version 1.0 — April 2026
+
+─────────────────────────────────────────────────────────────────────────────
+
+NOTICE: This license follows the structure of a standard Proprietary / All
+Rights Reserved commercial software license, modeled after industry-standard
+forms used in closed-source commercial software distribution. It is NOT an
+open-source license. No rights are granted beyond those expressly stated.
+
+─────────────────────────────────────────────────────────────────────────────
+
+Copyright (c) 2026 Jesús Gutiérrez López. All Rights Reserved.
+
+The LiquidGlass Framework, including all source code, compiled binaries,
+XCFramework artifacts, documentation, design assets, architecture diagrams,
+Architecture Decision Records (ADRs), string catalogs, animation presets, UI
+templates, and all associated files in this repository (collectively, the
+"Software"), is the exclusive proprietary intellectual property of
+Jesús Gutiérrez López ("Author").
+
+─────────────────────────────────────────────────────────────────────────────
+1. GRANT OF RIGHTS
+─────────────────────────────────────────────────────────────────────────────
+
+Subject to the terms and conditions of this License, the Author grants to
+persons or entities that have received a copy of the Software and to whom the
+Author has explicitly granted permission in writing ("Authorized Licensees") a
+limited, non-exclusive, non-transferable, non-sublicensable, revocable license
+to:
+
+  (a) Use the compiled XCFramework artifact solely within applications
+      developed by the Authorized Licensee for distribution on Apple platforms;
+
+  (b) Read the source code for the purpose of integration and debugging within
+      the Authorized Licensee's own application projects.
+
+Any use not expressly permitted above is PROHIBITED.
+
+─────────────────────────────────────────────────────────────────────────────
+2. RESTRICTIONS
+─────────────────────────────────────────────────────────────────────────────
+
+Without prior, express, written consent from the Author, Authorized Licensees
+and any other recipient of the Software MAY NOT:
+
+  (a) COPY, REPRODUCE, OR DUPLICATE any portion of the Software, in whole or
+      in part, in any medium or format, whether physical or electronic;
+
+  (b) DISTRIBUTE, PUBLISH, TRANSMIT, SELL, RENT, LEASE, SUBLICENSE, LEND,
+      TRANSFER, OR MAKE AVAILABLE the Software, or any portion thereof, to any
+      third party, whether for compensation or free of charge;
+
+  (c) MODIFY, ADAPT, TRANSLATE, DERIVE, REVERSE-ENGINEER, DECOMPILE,
+      DISASSEMBLE, OR CREATE DERIVATIVE WORKS based upon the Software or any
+      portion thereof;
+
+  (d) REMOVE, ALTER, OBSCURE, OR CIRCUMVENT any copyright notice, trademark,
+      watermark, proprietary legend, or other ownership notice contained in or
+      on the Software;
+
+  (e) USE the Software to train, fine-tune, or otherwise build machine-learning
+      models, large language models, code-generation systems, or artificial
+      intelligence systems of any kind;
+
+  (f) USE the Software as the basis for a competing product, service, or
+      framework, whether distributed commercially or freely;
+
+  (g) PUBLISH, DISCLOSE, OR DESCRIBE in any public forum, publication, or
+      presentation the internal architecture, algorithms, or implementation
+      details of the Software without prior written consent from the Author;
+
+  (h) INCORPORATE the Software, or any derivative thereof, into an open-source
+      project or release it under any open-source or Creative Commons license;
+
+  (i) GRANT, SUBLICENSE, OR TRANSFER to any other party any of the rights
+      received under Section 1 of this License.
+
+─────────────────────────────────────────────────────────────────────────────
+3. INTELLECTUAL PROPERTY
+─────────────────────────────────────────────────────────────────────────────
+
+The Author retains all right, title, and interest in and to the Software,
+including all intellectual property rights therein. This License does not
+transfer ownership of any intellectual property to any Authorized Licensee or
+any other party. All goodwill associated with the Software accrues exclusively
+to the Author.
+
+─────────────────────────────────────────────────────────────────────────────
+4. CONFIDENTIALITY
+─────────────────────────────────────────────────────────────────────────────
+
+The Software, including its source code, architecture, and design decisions,
+constitutes confidential and proprietary information of the Author. Recipients
+of the Software agree to maintain it in strict confidence and to apply at
+minimum the same degree of care they apply to their own confidential
+information, but in no event less than reasonable care.
+
+─────────────────────────────────────────────────────────────────────────────
+5. NO WARRANTY
+─────────────────────────────────────────────────────────────────────────────
+
+THE SOFTWARE IS PROVIDED "AS IS," WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT. THE AUTHOR
+MAKES NO WARRANTY THAT THE SOFTWARE WILL MEET THE LICENSEE'S REQUIREMENTS OR
+THAT ITS OPERATION WILL BE UNINTERRUPTED OR ERROR-FREE.
+
+─────────────────────────────────────────────────────────────────────────────
+6. LIMITATION OF LIABILITY
+─────────────────────────────────────────────────────────────────────────────
+
+TO THE MAXIMUM EXTENT PERMITTED BY APPLICABLE LAW, IN NO EVENT SHALL THE
+AUTHOR BE LIABLE FOR ANY INDIRECT, INCIDENTAL, SPECIAL, EXEMPLARY,
+CONSEQUENTIAL, OR PUNITIVE DAMAGES, INCLUDING BUT NOT LIMITED TO LOSS OF
+PROFITS, LOSS OF DATA, LOSS OF GOODWILL, BUSINESS INTERRUPTION, OR COST OF
+SUBSTITUTE GOODS OR SERVICES, ARISING OUT OF OR RELATED TO THE USE OF OR
+INABILITY TO USE THE SOFTWARE, EVEN IF THE AUTHOR HAS BEEN ADVISED OF THE
+POSSIBILITY OF SUCH DAMAGES.
+
+IN NO EVENT SHALL THE AUTHOR'S TOTAL AGGREGATE LIABILITY TO ANY PARTY EXCEED
+THE AMOUNT PAID BY THAT PARTY TO THE AUTHOR FOR THE SOFTWARE IN THE TWELVE
+(12) MONTHS PRECEDING THE CLAIM, OR ONE HUNDRED UNITED STATES DOLLARS
+(USD $100), WHICHEVER IS GREATER.
+
+─────────────────────────────────────────────────────────────────────────────
+7. TERM AND TERMINATION
+─────────────────────────────────────────────────────────────────────────────
+
+This License is effective from the date the Authorized Licensee first receives
+the Software and continues until terminated.
+
+The Author may terminate this License immediately, without notice, if the
+Authorized Licensee breaches any term of this License. Upon termination:
+
+  (a) All rights granted under Section 1 immediately cease;
+  (b) The Authorized Licensee must destroy all copies of the Software in their
+      possession or control, including all backup copies; and
+  (c) The Authorized Licensee must certify in writing to the Author that such
+      destruction has occurred upon request.
+
+Sections 2, 3, 4, 5, 6, 8, 9, and 10 survive termination of this License.
+
+─────────────────────────────────────────────────────────────────────────────
+8. GOVERNING LAW AND JURISDICTION
+─────────────────────────────────────────────────────────────────────────────
+
+This License shall be governed by and construed in accordance with the laws of
+Spain, without regard to its conflict-of-law provisions. The parties
+irrevocably submit to the exclusive jurisdiction of the courts of Madrid,
+Spain, for resolution of any dispute arising out of or relating to this
+License.
+
+─────────────────────────────────────────────────────────────────────────────
+9. ENTIRE AGREEMENT
+─────────────────────────────────────────────────────────────────────────────
+
+This License constitutes the entire agreement between the parties with respect
+to the Software and supersedes all prior or contemporaneous understandings,
+representations, warranties, or agreements, whether written or oral, relating
+to the Software.
+
+─────────────────────────────────────────────────────────────────────────────
+10. CONTACT
+─────────────────────────────────────────────────────────────────────────────
+
+For licensing inquiries, permissions, or to report a violation:
+
+  Jesús Gutiérrez López
+  jesus.gutierrez@liquidglass.private
+  https://liquidglass.private
+
+─────────────────────────────────────────────────────────────────────────────
+
+ALL RIGHTS RESERVED. UNAUTHORIZED USE, COPYING, OR DISTRIBUTION OF THIS
+SOFTWARE IS STRICTLY PROHIBITED AND MAY RESULT IN CIVIL AND CRIMINAL PENALTIES.
+
+─────────────────────────────────────────────────────────────────────────────

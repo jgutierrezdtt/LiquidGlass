@@ -1,0 +1,202 @@
+{
+  "sourceLanguage" : "en",
+  "strings" : {
+    "lg.button.close" : {
+      "comment" : "Close button label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Close" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cerrar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Fermer" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Schließen" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "إغلاق" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "閉じる" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "关闭" } }
+      }
+    },
+    "lg.button.cancel" : {
+      "comment" : "Cancel button label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Cancel" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cancelar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Annuler" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Abbrechen" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "إلغاء" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "キャンセル" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "取消" } }
+      }
+    },
+    "lg.button.confirm" : {
+      "comment" : "Confirm / Done button label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Confirm" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Confirmar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Confirmer" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Bestätigen" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تأكيد" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "確認" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "确认" } }
+      }
+    },
+    "lg.search.placeholder" : {
+      "comment" : "Search bar placeholder text",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Search" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Buscar" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Rechercher" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Suchen" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "بحث" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "検索" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "搜索" } }
+      }
+    },
+    "lg.badge.new" : {
+      "comment" : "Badge label for new items",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "New" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Nuevo" } },
+        "fr" : { "stringUnit" : { "state" : "translated", "value" : "Nouveau" } },
+        "de" : { "stringUnit" : { "state" : "translated", "value" : "Neu" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "جديد" } },
+        "ja" : { "stringUnit" : { "state" : "translated", "value" : "新着" } },
+        "zh-Hans" : { "stringUnit" : { "state" : "translated", "value" : "新" } }
+      }
+    },
+    "lg.accessibility.close.hint" : {
+      "comment" : "Accessibility hint for close buttons",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Double-tap to close" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Doble toque para cerrar" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "انقر مرتين للإغلاق" } }
+      }
+    },
+    "lg.accessibility.button.hint" : {
+      "comment" : "Generic accessibility hint for action buttons",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Double-tap to activate" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Doble toque para activar" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "انقر مرتين للتفعيل" } }
+      }
+    },
+    "lg.toast.dismiss.hint" : {
+      "comment" : "Accessibility hint for dismissing a toast",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Swipe up to dismiss" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Desliza hacia arriba para descartar" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "اسحب لأعلى للرفض" } }
+      }
+    },
+    "lg.avatar.placeholder" : {
+      "comment" : "Accessibility label for avatar when no image is set",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Profile picture" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Foto de perfil" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "صورة الملف الشخصي" } }
+      }
+    },
+    "lg.progress.label" : {
+      "comment" : "Accessibility label for progress indicators",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Progress" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Progreso" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "التقدم" } }
+      }
+    },
+    "lg.empty.state.title" : {
+      "comment" : "Generic empty state title",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Nothing here yet" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Todavía no hay nada aquí" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "لا يوجد شيء هنا بعد" } }
+      }
+    },
+    "lg.loading" : {
+      "comment" : "Generic loading state label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Loading…" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Cargando…" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "جارٍ التحميل…" } }
+      }
+    },
+    "lg.banking.balance.label" : {
+      "comment" : "Balance label in banking templates",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Balance" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Saldo" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الرصيد" } }
+      }
+    },
+    "lg.banking.transactions.title" : {
+      "comment" : "Transactions section title in banking templates",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Recent Transactions" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Transacciones Recientes" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "المعاملات الأخيرة" } }
+      }
+    },
+    "lg.banking.send.action" : {
+      "comment" : "Send money action label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Send" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Enviar" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "إرسال" } }
+      }
+    },
+    "lg.banking.receive.action" : {
+      "comment" : "Receive money action label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Receive" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Recibir" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "استلام" } }
+      }
+    },
+    "lg.sports.standings.title" : {
+      "comment" : "League standings section title",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Standings" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Clasificación" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الترتيب" } }
+      }
+    },
+    "lg.sports.live" : {
+      "comment" : "Live indicator label for live matches",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Live" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "En vivo" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "مباشر" } }
+      }
+    },
+    "lg.shopping.add.to.cart" : {
+      "comment" : "Add to cart button label",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Add to Cart" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Añadir al carrito" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "أضف إلى السلة" } }
+      }
+    },
+    "lg.auth.login.title" : {
+      "comment" : "Login screen title",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Sign In" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Iniciar sesión" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "تسجيل الدخول" } }
+      }
+    },
+    "lg.auth.signup.title" : {
+      "comment" : "Sign up screen title",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Create Account" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Crear cuenta" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "إنشاء حساب" } }
+      }
+    },
+    "lg.settings.title" : {
+      "comment" : "Settings screen title",
+      "localizations" : {
+        "en" : { "stringUnit" : { "state" : "translated", "value" : "Settings" } },
+        "es" : { "stringUnit" : { "state" : "translated", "value" : "Ajustes" } },
+        "ar" : { "stringUnit" : { "state" : "translated", "value" : "الإعدادات" } }
+      }
+    }
+  },
+  "version" : "1.0"
+}

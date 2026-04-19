@@ -1,0 +1,129 @@
+# .gitignore — LiquidGlass Framework
+# Standard: github/gitignore Swift template (https://github.com/github/gitignore/blob/main/Swift.gitignore)
+#            + Xcode additions from github/gitignore Xcode template
+#            (https://github.com/github/gitignore/blob/main/Global/Xcode.gitignore)
+# Last updated: April 2026
+
+# ─────────────────────────────────────────
+# macOS
+# ─────────────────────────────────────────
+.DS_Store
+.AppleDouble
+.LSOverride
+Icon
+._*
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+.Trashes
+.VolumeIcon.icns
+.com.apple.timemachine.donotpresent
+.AppleDB
+.AppleDesktop
+Network Trash Folder
+Temporary Items
+.apdisk
+
+# ─────────────────────────────────────────
+# Xcode
+# ─────────────────────────────────────────
+
+# Build artifacts
+build/
+DerivedData/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+!default.mode1v3
+*.mode2v3
+!default.mode2v3
+*.perspectivev3
+!default.perspectivev3
+xcuserdata/
+
+# Other
+*.moved-aside
+*.xccheckout
+*.xcscmblueprint
+
+# Playgrounds
+timeline.xctimeline
+playground.xcworkspace
+
+# Swift Package Manager resolved file
+# (intentionally NOT ignored — lock file should be committed for reproducible builds)
+# Package.resolved
+
+# ─────────────────────────────────────────
+# Swift Package Manager
+# ─────────────────────────────────────────
+.build/
+.swiftpm/configuration/
+.swiftpm/xcode/
+*.xcodeproj/project.xcworkspace/xcshareddata/swiftpm/Package.resolved
+
+# ─────────────────────────────────────────
+# CocoaPods (not used, but guard anyway)
+# ─────────────────────────────────────────
+Pods/
+*.xcworkspace
+
+# ─────────────────────────────────────────
+# Carthage (not used)
+# ─────────────────────────────────────────
+Carthage/Build/
+Carthage/Checkouts/
+
+# ─────────────────────────────────────────
+# Fastlane
+# ─────────────────────────────────────────
+fastlane/report.xml
+fastlane/Preview.html
+fastlane/screenshots/**/*.png
+fastlane/test_output/
+
+# ─────────────────────────────────────────
+# Instruments
+# ─────────────────────────────────────────
+*.trace
+
+# ─────────────────────────────────────────
+# AppCode
+# ─────────────────────────────────────────
+.idea/
+
+# ─────────────────────────────────────────
+# XCFramework build output
+# ─────────────────────────────────────────
+build/LiquidGlass.xcframework/
+build/archives/
+build/Products/
+
+# ─────────────────────────────────────────
+# Test results & coverage
+# ─────────────────────────────────────────
+*.xcresult
+TestResults/
+coverage/
+*.lcov
+*.profdata
+*.profraw
+
+# ─────────────────────────────────────────
+# DocC build output
+# ─────────────────────────────────────────
+.docc-build/
+docs/build/
+
+# ─────────────────────────────────────────
+# Environment & secrets — NEVER commit
+# ─────────────────────────────────────────
+.env
+.env.*
+*.p8
+*.p12
+*.mobileprovision
+*.provisionprofile
+AuthKey_*.p8
+ExportOptions.plist
