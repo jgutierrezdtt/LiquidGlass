@@ -11,7 +11,7 @@ on:
 
 jobs:
   sast:
-    uses: jgutierrezdtt/Pipelines/.github/workflows/reusable-security-analysis.yml@main
+    uses: jgutierrezdtt/Pipelines-Public/.github/workflows/reusable-security-analysis.yml@main
     with:
       semgrep_config: "auto"
       cvss_gate_threshold: 7.0
