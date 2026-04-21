@@ -1,0 +1,11 @@
+# Xcode project metadata — not application code
+*.xcodeproj/
+*.xcworkspace/
+*.xcuserdata/
+
+# Build artefacts
+build/
+DerivedData/
+
+# Documentation bundle
+*.docc/
