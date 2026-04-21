@@ -9,7 +9,7 @@ on:
 
 jobs:
   sbom:
-    uses: jgutierrezdtt/Pipelines/.github/workflows/reusable-sbom.yml@main
+    uses: jgutierrezdtt/Pipelines-Public/.github/workflows/reusable-sbom.yml@main
     with:
       sbom_tool: syft
       sbom_subject: fs
