@@ -1,0 +1,20 @@
+name: SBOM — Software Bill of Materials
+
+on:
+  push:
+    branches: [main]
+  release:
+    types: [published]
+  workflow_dispatch:
+
+jobs:
+  sbom:
+    uses: jgutierrezdtt/Pipelines/.github/workflows/reusable-sbom.yml@main
+    with:
+      sbom_tool: syft
+      sbom_subject: fs
+      sbom_format: cyclonedx-json
+      upload_artifacts: true
+      upload_release_asset: true
+      attest_sbom: false
+    secrets: inherit
