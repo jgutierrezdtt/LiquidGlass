@@ -1,0 +1,18 @@
+name: SAST — Static Analysis (Semgrep)
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+  schedule:
+    - cron: "0 3 * * 1"
+  workflow_dispatch:
+
+jobs:
+  sast:
+    uses: jgutierrezdtt/Pipelines/.github/workflows/reusable-security-analysis.yml@main
+    with:
+      semgrep_config: "auto"
+      cvss_gate_threshold: 7.0
+    secrets: inherit
